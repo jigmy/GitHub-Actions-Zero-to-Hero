@@ -1,7 +1,7 @@
 # app.py
 # This is a test commit
 # trying 
-def add(a, c):
+def add(a, c:
     return a + c
 
 def test_add():
